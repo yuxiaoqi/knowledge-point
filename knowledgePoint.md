@@ -98,7 +98,7 @@
 
    ##### 9 [如何扩展和优化线程池](https://mp.weixin.qq.com/s/LzqwPjxgiP5gF1_r1TjRCg)
 
-   10 [Java ExecutorService线程池中的小坑——关于线程池中抛出的异常处理](https://segmentfault.com/a/1190000000669942)
+   ##### 10 [Java ExecutorService线程池中的小坑——关于线程池中抛出的异常处理](https://segmentfault.com/a/1190000000669942)
 
 
 
@@ -164,6 +164,8 @@
 
 ##### 9.1 [Guava LocalCache 缓存介绍及实现源码深入剖析](https://ketao1989.github.io/2014/12/19/Guava-Cache-Guide-And-Implement-Analyse/)
 
+##### 9.2 [使用Guava RateLimiter限流以及源码解析](https://segmentfault.com/a/1190000016182737)
+
 #### 10 面试经验
 
 ##### [蚂蚁金服面试经历](https://mp.weixin.qq.com/s/uqTPgHZmu7rljRNA61HlVQ)
@@ -175,6 +177,10 @@
 #### 12 技术选型
 
 ##### [八年Java架构学习经验总结：第六点尤为重要！](https://mp.weixin.qq.com/s/Rbb9PtUuAJZg-rsCQSLu3g)
+
+#### 13 hutool java工具包
+
+
 
 
 
