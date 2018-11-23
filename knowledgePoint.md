@@ -16,6 +16,12 @@
 
 ##### 2.6 [Redis 的各项功能解决了哪些问题？](https://mp.weixin.qq.com/s/WkdhimZfaqlBY1ZJuFrHuw)
 
+##### 2.7[ 基于单节点的redis 分布式锁的实现](https://www.xilidou.com/2017/10/23/Redis%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/)
+
+##### 2.8 [基于单节点的redis 分布式锁的正确实现和错误示例](https://wudashan.cn/2017/10/23/Redis-Distributed-Lock-Implement/)
+
+##### 2.9 [Redis RedLock 完美的分布式锁么？](https://juejin.im/post/59f592c65188255f5c5142d2)
+
 #### 3 java基础系列
 
 1. #####  [Java8系列之 Lambda表达式（一）](https://mp.weixin.qq.com/s/d8kHXSS6CJR6JRHyY-4tvg)
